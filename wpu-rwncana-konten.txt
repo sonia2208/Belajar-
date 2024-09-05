@@ -3,7 +3,11 @@ RENACANA KONTEN WPU
 -Javascript
 *ES6
 *Framework Javascript
+  ^ Vue
+  ^React
 -Struktur dasar data
 -PHP Fremeworks
+^ Lavarel
 -Interview
 -Vlogs
+-Python
