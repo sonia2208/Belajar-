@@ -1,6 +1,8 @@
 RENACANA KONTEN WPU
 
 -Javascript
+*ES6
+*Framework Javascript
 -PHP Fremeworks
 -Interview
 -Vlogs
