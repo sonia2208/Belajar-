@@ -1,0 +1,2 @@
+# Belajar-
+sekolah mencari ilmu
